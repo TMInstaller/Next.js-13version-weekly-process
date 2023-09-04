@@ -3,6 +3,10 @@
 이것은 [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app)으로 시작된 [Next.js](https://nextjs.org/) 프로젝트입니다.
 
 ## 시작하기
+Next.js 최신 버전을 생성하세요
+```bash
+$npx create-next-app@latest frontend
+```
 
 먼저, 개발 서버를 실행하세요:
 
